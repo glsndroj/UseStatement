@@ -4,7 +4,7 @@ export const Exercise1 = (props) => {
   const { info, name, age, gender } = props;
   return (
     <>
-      <div className="flex flex-col items-center mt-[500px] gap-10">
+      <div className="flex flex-col items-center mt-[200px] gap-10">
         <div className=" border-2 rounded-md w-[200px] h-[55px] flex items-center justify-center ">
           {info}
         </div>

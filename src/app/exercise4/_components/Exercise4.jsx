@@ -5,7 +5,7 @@ export const Exercise4 = (props) => {
     props;
   return (
     <>
-      <div className="flex flex-col items-center mt-[500px] gap-7">
+      <div className="flex flex-col items-center mt-[200px] gap-7">
         <div className="w-[300px] h-[30px] flex items-center justify-center gap-5 ">
           <input
             type="text"

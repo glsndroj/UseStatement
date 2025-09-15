@@ -7,7 +7,7 @@ export const Exercise5 = (props) => {
 
   return (
     <>
-      <div className="flex items-center mt-[500px] flex-col ">
+      <div className="flex items-center mt-[200px] flex-col ">
         <div className="flex flex-col gap-2 mt-2 items-center">
           <label>Name: </label>
           <input

@@ -4,7 +4,7 @@ export const Exercise2 = (props) => {
   const { number, increase, decrease } = props;
   return (
     <>
-      <div className="flex flex-col items-center mt-[500px] gap-2">
+      <div className="flex flex-col items-center mt-[200px] gap-2">
         <div className="input w-[80px] h-[50px] text-center text-3xl">
           {number}
         </div>

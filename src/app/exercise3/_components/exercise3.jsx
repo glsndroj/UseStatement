@@ -3,7 +3,7 @@ export const Exercise3 = (props) => {
   const { color, green, red, yellow, blue, purple } = props;
   return (
     <>
-      <div className="flex flex-col items-center mt-[500px] gap-2">
+      <div className="flex flex-col items-center mt-[200px] gap-2">
         <div
           className=" border-2 rounded-md w-[200px] h-[55px] flex items-center justify-center"
           style={{ backgroundColor: color }}
